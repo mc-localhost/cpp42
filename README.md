@@ -1,51 +1,15 @@
 # cpp42
 C++ projects from 42 Core Curriculum
 
-## cpp00 – basics
-
-the fundamentals of c++: namespaces, classes, member functions, stdio streams, `static`, `const`, and more
-
-
-## cpp01 – memory and references
-
-memory allocation and references. stack vs heap allocation, references, pointers, and basic memory management
-
-
-## cpp02 – operator overloading
-
-ad-hoc polymorphism with operator overloading. the orthodox canonical form (constructor, destructor, copy assignment)
-
-
-## cpp03 – inheritance
-
-inheritance. create and manage base and derived classes, diamond problem
-
-
-## cpp04 – abstract classes and polymorphism
-
-subtype polymorphism using abstract classes and virtual functions
-
-
-## >> cpp05 – exceptions
-
-c++ exceptions, try/catch blocks and custom exception classes
-
-
-## cpp06 – casting
-
-cast types in c++: `static_cast`, `dynamic_cast`, `const_cast`, and `reinterpret_cast`
-
-
-## cpp07 – templates
-
-function and class templates, compile-time polymorphism
-
-
-## cpp08 – containers and iterators
-
-custom container classes and iterators
-
-
-## cpp09 – stl
-
-real-world problems using the standard template library (stl)
+| Module   | Topic                             | Summary                                                                                   | Status       |
+|----------|-----------------------------------|-------------------------------------------------------------------------------------------|--------------|
+| CPP00    | Basics                            | Namespaces, classes, member functions, stdio streams, `static`, `const`, and more         | Completed    |
+| CPP01    | Memory and References             | Stack vs heap allocation, references, pointers, and basic memory management               | Completed    |
+| CPP02    | Operator Overloading              | Ad-hoc polymorphism, operator overloading, canonical form (constructor, copy, etc.)       | Completed    |
+| CPP03    | Inheritance                       | Base/derived classes, inheritance, diamond problem                                         | Completed    |
+| CPP04    | Abstract Classes and Polymorphism | Subtype polymorphism, abstract classes, virtual functions                                 | Completed    |
+| CPP05    | Exceptions                        | C++ exceptions, try/catch blocks, and custom exception classes                            | In Progress  |
+| CPP06    | Casting                           | `static_cast`, `dynamic_cast`, `const_cast`, `reinterpret_cast`                          | Pending      |
+| CPP07    | Templates                         | Function and class templates, compile-time polymorphism                                   | Pending      |
+| CPP08    | Containers and Iterators          | Custom container classes and iterators                                                    | Pending      |
+| CPP09    | STL                               | Real-world problems using the Standard Template Library                                   | Pending      |
