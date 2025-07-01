@@ -8,8 +8,8 @@ C++ projects from 42 Core Curriculum
 | CPP02    | Operator Overloading              | Ad-hoc polymorphism, operator overloading, canonical form (constructor, copy, etc.)       | Completed    |
 | CPP03    | Inheritance                       | Base/derived classes, inheritance, diamond problem                                         | Completed    |
 | CPP04    | Abstract Classes and Polymorphism | Subtype polymorphism, abstract classes, virtual functions                                 | Completed    |
-| CPP05    | Exceptions                        | C++ exceptions, try/catch blocks, and custom exception classes                            | In Progress  |
-| CPP06    | Casting                           | `static_cast`, `dynamic_cast`, `const_cast`, `reinterpret_cast`                          | Pending      |
-| CPP07    | Templates                         | Function and class templates, compile-time polymorphism                                   | Pending      |
-| CPP08    | Containers and Iterators          | Custom container classes and iterators                                                    | Pending      |
+| CPP05    | Exceptions                        | C++ exceptions, try/catch blocks, and custom exception classes                            | Completed  |
+| CPP06    | Casting                           | `static_cast`, `dynamic_cast`, `const_cast`, `reinterpret_cast`                          | Completed      |
+| CPP07    | Templates                         | Function and class templates, compile-time polymorphism                                   | Completed      |
+| CPP08    | Containers and Iterators          | Custom container classes and iterators                                                    | Completed      |
 | CPP09    | STL                               | Real-world problems using the Standard Template Library                                   | Pending      |
